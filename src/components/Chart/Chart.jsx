@@ -91,5 +91,3 @@ const Chhart = styled.div`
   gap: 32px;
 `;
 
-
-//airises.github.io/Exp-tracker_styledcomz
